@@ -1,4 +1,4 @@
 # Vanessa's Notes
 
 ## Summary
-This repository is being used to hold notes from the Web Development program at Ligthhouse Labs.
+This repository contains all of the notes taken by [Vanessa](https://github.com/Nesss86/lighthouse-web-notes) for the [Lighthouse Labs Web Development Bootcamp](https://www.lighthouselabs.ca/en/web-development).
